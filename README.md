@@ -3,6 +3,10 @@
 
 This is my personal portfolio website showcasing my skills, background, and achievements as a software developer.
 
+## Live Demo
+
+Check out the live website: [Nhlawuleko's Portfolio](https://nhlawuleko-portfolio.netlify.app)
+
 ## Features
 
 - **Responsive Design**: Fully responsive layout that works on mobile, tablet, and desktop devices
