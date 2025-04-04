@@ -1,11 +1,10 @@
-
 # Nhlawuleko Ntimbani - Personal Portfolio
 
 This is my personal portfolio website showcasing my skills, background, and achievements as a software developer.
 
 ## Live Demo
 
-Check out the live website: [Nhlawuleko's Portfolio](https://nhlawuleko-portfolio.netlify.app)
+Check out the live website: [Nhlawuleko's Portfolio](https://funny-nougat-36e254.netlify.app)
 
 ## Features
 
